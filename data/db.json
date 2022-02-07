@@ -1,0 +1,26 @@
+{
+    "webinars": [
+        {
+            "id": 1,
+            "title": "webinar 1",
+            "start": "2022-0203",
+            "description": "description",
+            "date_time": "date and time",
+            "online": true,
+            "instructor_name": "Instructor name",
+            "instructor_details": "Instructor details",
+            "instructor_image": "Instructor image"
+        },
+        {
+            "id": 2,
+            "title": "webinar 2",
+            "start": "2022-02-10",
+            "description": "description",
+            "date_time": "date and time",
+            "online": true,
+            "instructor_name": "Instructor name",
+            "instructor_details": "Instructor details",
+            "instructor_image": "Instructor image"
+        }
+    ]
+}
